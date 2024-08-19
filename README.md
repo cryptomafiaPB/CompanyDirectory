@@ -30,7 +30,7 @@ Email
 Application Link  
 Notes (Optional)
 
-##Contributing Guidelines
+## Contributing Guidelines
 
 We appreciate your contributions and strive to maintain a positive and respectful environment. Please adhere to these guidelines:
 
